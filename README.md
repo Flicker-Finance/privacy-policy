@@ -33,7 +33,7 @@ Flicker Finance ("we", "us", or "our") is committed to protecting your privacy. 
    Please note that no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee absolute security.
 
 5. Your Choices
-   - Account Information: You can update or delete your account information at any time by writing to us at support@flicker.finance.
+   - Account Information: You can update or delete your account information at any time by logging into your account settings.
    - Email Communications: You may opt-out of receiving promotional emails by following the unsubscribe link in those emails.
 6. Children's Privacy
    Our App is not intended for individuals under the age of 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us, and we will take steps to remove such information.
